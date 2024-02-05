@@ -8,7 +8,7 @@ packages = [{include = "streamlit_julia_call_demo"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-streamlit-julia-call = {git = "ssh://git@github.com/mrkn/streamlit-julia-call.git"}
+streamlit-julia-call = {git = "ssh://git@github.com/mrkn/streamlit-julia-call.git", rev = "v0.1.0"}
 
 
 [build-system]

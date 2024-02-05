@@ -1022,8 +1022,8 @@ streamlit = "^1.31.0"
 [package.source]
 type = "git"
 url = "ssh://git@github.com/mrkn/streamlit-julia-call.git"
-reference = "HEAD"
-resolved_reference = "2a97a27b8bbc56d0920fa44fa480c319fcf776f4"
+reference = "v0.1.0"
+resolved_reference = "f7f63f955b319bb5b14e22a1786910d6c5d4f04e"
 
 [[package]]
 name = "tenacity"
@@ -1216,4 +1216,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "308f1706671e3d149a9d1099a0dcf0a7575c8aedcb04bce6d028cd441f743617"
+content-hash = "d26a4d3c6b5c0013878406990b4537b2a6dd5bd18bcfded11a1f1fd6a1758c17"
