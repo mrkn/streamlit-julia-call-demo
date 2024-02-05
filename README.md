@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Streamlit application that demonstrates the example use of [streamlit-julia-call] library.
+This is a Streamlit application that demonstrates the example use of [streamlit-julia-call](https://github.com/mrkn/streamlit-julia-call) library.
 
 ## Author
 
