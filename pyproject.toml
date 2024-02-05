@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "streamlit-julia-call-demo"
+version = "0.1.0"
+description = ""
+authors = ["Kenta Murata <mrkn@mrkn.jp>"]
+readme = "README.md"
+packages = [{include = "streamlit_julia_call_demo"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit-julia-call = {git = "ssh://git@github.com/mrkn/streamlit-julia-call.git"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
